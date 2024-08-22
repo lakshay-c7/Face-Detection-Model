@@ -1,6 +1,3 @@
-
-Certainly! Below is a README template that you can use for your GitHub repository dedicated to your Face Detection model project using TensorFlow and VGG16. This README includes sections that detail the project, how to set up and run the model, and additional notes for users wanting to dive deeper or contribute.
-
 Face Detection Model using TensorFlow and VGG16
 
 Project Overview
